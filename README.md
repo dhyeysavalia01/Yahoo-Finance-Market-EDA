@@ -37,7 +37,7 @@ Each row represents one trading day.
 - NumPy  
 - Matplotlib  
 
-
+> [Link To Questions](https://tinyurl.com/2p4fydmx) 
 
 
 
