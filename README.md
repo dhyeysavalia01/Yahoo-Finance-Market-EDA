@@ -1,7 +1,7 @@
-# 📈 Stock Price Analysis & Multiple Linear Regression
+# Yahoo-Finance-Market-EDA
 
 ## 📌 Overview
-This project performs **Exploratory Data Analysis (EDA)** and applies **Multiple Linear Regression** to model stock price behavior.  
+This project performs **Exploratory Data Analysis (EDA)** and applies **Multiple Linear Regression** to model stock price behavior. (NO TIME SERIES ANALYSIS)
 
 The objective is to:
 - Understand relationships between price variables and volume
@@ -9,7 +9,7 @@ The objective is to:
 - Compare **sklearn Linear Regression** with a **custom Batch Gradient Descent implementation**
 
 ---
-###  👉[click here for dataset](https://www.kaggle.com/datasets/suruchiarora/yahoo-finance-dataset-2018-2023)
+###  👉 [click here for dataset](https://www.kaggle.com/datasets/suruchiarora/yahoo-finance-dataset-2018-2023)
 ## 📊 Dataset Features
 
 - **Date**
